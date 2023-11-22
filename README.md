@@ -2,7 +2,7 @@
 
 Built a web based weather application using HTML,CSS and Javascript.
 
-This weather application is built using the HTML,CSS,JavaScript. It allows users to get real-time weather information for their current location or any other location they search for. The app fetches weather data from a reliable weather API and presents it in a user-friendly and visually appealing manner.
+This weather application is built using the HTML,CSS,JavaScript. It allows users to get real-time weather information for their current location or any other location they search for. The app fetches weather data from a reliable weather API(openweathermap) and presents it in a user-friendly and visually appealing manner.
 
 # Features :
 -> Real-time Weather Data: Weather app provides up-to-date weather information for any location around the world.
