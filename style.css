@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     background: #222;
-    background-image: url('https://source.unsplash.com/1600x900/random?landscape');
+    background-image: url('https://source.unsplash.com/random?landscape');
     background-repeat: no-repeat;
     background-size: cover;
 }
