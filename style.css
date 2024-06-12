@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #222;
+    background: hsl(163, 37%, 62%);
     background-image: url('https://pixabay.com/images/search/landscape/');
     background-repeat: no-repeat;
     background-size: cover;
